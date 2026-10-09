@@ -2,8 +2,8 @@
   {
     "gameCode": "KDM",
     "version": "2016-07-12 / KDM-2016080100",
-    "lastUpdated": "2026-10-06",
-    "source": "Kinect bypass + Timer Freeze + 60 FPS + Omnimix + Full Attract Song Pool + MASTER Demo + Clean Capture + Native 1080p"
+    "lastUpdated": "2026-10-10",
+    "source": "https://raw.githubusercontent.com/JoeKoh27/danevo-patches/main/"
   },
   {
     "name": "Kinect bypass",
@@ -640,7 +640,7 @@
   },
   {
     "name": "Native 1080p Render",
-    "description": "Render 3D textures at native 1920x1080. 2D elements like HUD/UI is not affected and will remain in their original 720p scale.",
+    "description": "Renders at 1920×1080 with adjustments to UI positioning. Original 2D artwork (HUD/UI elements, song jackets etc) is not upscaled.",
     "gameCode": "KDM",
     "type": "memory",
     "peIdentifier": "KDM-5784d760_1d897b",
@@ -1330,7 +1330,7 @@
     "gameCode": "KDM",
     "type": "union",
     "peIdentifier": "KDM-5784d760_1d897b",
-    "description": "Forces the game to run as a specific region without altering language, which allows for region-specific content locking. Use Japan for everything to be unlocked.",
+    "description": "Overrides the region used for song license checks without altering UI language. Select Japan for all songs to be unlocked.",
     "patches": [
       {
         "name": "Default",
