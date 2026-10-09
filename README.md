@@ -23,7 +23,7 @@ These patches target this specific DLL build. The datecode alone does not guaran
 3. Paste this URL:
 
    ```text
-   https://raw.githubusercontent.com/JoeKoh27/danevo-patches/main/
+   https://joekoh27.github.io/danevo-patches/
    ```
 
 4. Click **Import**, then enable the patches you want.
@@ -45,7 +45,7 @@ Use the base URL above. Spice2x automatically appends the filename for your DLL 
 | **Timer Freeze** | Freezes the countdown timers in music select and difficulty select. |
 | **60 FPS limiter** | Limits the game to 60 FPS; useful with high refresh rate monitors. |
 | **Attract Mode - Full Song Pool** | Selects attract-mode songs from the full live song pool, skipping tutorial, null, and unavailable entries. |
-| **EXPERIMENTAL - Demo MASTER** | Changes attract/demo chart previews to MASTER difficulty. Normal gameplay difficulty selection remains available. |
+| **Demo MASTER** | Changes attract/demo chart previews to MASTER difficulty. Normal gameplay difficulty selection remains untouched. |
 | **Clean Capture - Hide gameplay visuals** | Hides CREDIT/PASELI and in-game UI, and mutes note hit sounds. Use with STEALTH difficulty to hide the notes. Enable before launch; do not toggle during gameplay. |
 | **Omnimix Patch** | Required when using the compatible DanceEvolution Omnimix setup. |
 | **Native 1080p Render** | Renders at 1920×1080 with adjustments to UI positioning. Original 2D artwork, including HUD/UI assets and song jackets, is not upscaled. |
@@ -63,7 +63,7 @@ Use the base URL above. Spice2x automatically appends the filename for your DLL 
 
 **Japan has been tested offline with the final-update song set and makes all songs available for play without a server.**
 
-The override affects song licence checks. The actual region and UI language continue to follow `ea3-config.xml`.
+The override affects song license checks. The actual region and UI language continue to follow `eamuse-config.xml`.
 
 ### Omnimix and 1080p notes
 
