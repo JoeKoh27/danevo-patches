@@ -1049,42 +1049,6 @@
       },
       {
         "dllName": "gamekdm.dll",
-        "dataOffset": 570298,
-        "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
-        "dataEnabled": "FF742410FF742410FF742410FF742410E9F134F9FF"
-      },
-      {
-        "dllName": "gamekdm.dll",
-        "dataOffset": 125120,
-        "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
-        "dataEnabled": "E87B4BFEFF8D6424109C60E9751A1E00"
-      },
-      {
-        "dllName": "gamekdm.dll",
-        "dataOffset": 2097989,
-        "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
-        "dataEnabled": "83EC04C704240000C03F8B442434D900D80C24D918E980F0EDFF"
-      },
-      {
-        "dllName": "gamekdm.dll",
-        "dataOffset": 914399,
-        "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
-        "dataEnabled": "8B442438D900D80C24D91883C404619DC3"
-      },
-      {
-        "dllName": "gamekdm.dll",
-        "dataOffset": 13770,
-        "dataDisabled": "E871FEFFFF",
-        "dataEnabled": "E8EB7D0800"
-      },
-      {
-        "dllName": "gamekdm.dll",
-        "dataOffset": 13814,
-        "dataDisabled": "E845FEFFFF",
-        "dataEnabled": "E8BF7D0800"
-      },
-      {
-        "dllName": "gamekdm.dll",
         "dataOffset": 41921,
         "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
         "dataEnabled": "9C6089E581EC20020000E9409D0700"
