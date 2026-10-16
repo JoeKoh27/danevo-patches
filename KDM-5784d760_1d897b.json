@@ -523,7 +523,7 @@
   },
   {
     "name": "Omnimix Patch",
-    "description": "If you are using the Omnimix, you MUST enable this!",
+    "description": "Requires the separately installed Omnimix files, including data_mods and omni_sound. If your Omnimix version does not come with data_mods and omni_sound folder, DO NOT enable this!",
     "gameCode": "KDM",
     "type": "memory",
     "peIdentifier": "KDM-5784d760_1d897b",
