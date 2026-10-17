@@ -1340,7 +1340,7 @@
   },
   {
     "name": "OMNIMIX ONLY - Enable Alternate Audio Song Entries",
-    "description": "Adds the Fubuki version of Oboro from SDVX and Everybody's Circulation as separate song-select entries. The scores will still be saved under the original Oboro and Renai Circulation entries.",
+    "description": "Adds the Fubuki version of Oboro from SDVX and Everybody's Circulation as separate song-select entries. Alternate version scores will be shared with the original Oboro and Renai Circulation entries.",
     "gameCode": "KDM",
     "type": "memory",
     "peIdentifier": "KDM-5784d760_1d897b",
