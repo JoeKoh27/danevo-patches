@@ -47,7 +47,7 @@ Use the base URL above. Spice2x automatically appends the filename for your DLL 
 | **Attract Mode - Full Song Pool** | Selects attract-mode songs from the full live song pool, skipping tutorial, null, and unavailable entries. |
 | **Demo MASTER** | Changes attract/demo chart previews to MASTER difficulty. Normal gameplay difficulty selection remains untouched. |
 | **Clean Capture - Hide gameplay visuals** | Hides CREDIT/PASELI and in-game UI, and mutes note hit sounds. Use with STEALTH difficulty to hide the notes. Enable before launch; do not toggle during gameplay. |
-| **Omnimix Patch** | Required when using the compatible [DanceEvolution Omnimix Setup](https://pixeldrain.com/l/QaBxTj18). |
+| **Omnimix Patch** | Required when using the compatible [DanceEvolution Omnimix Setup](https://pixeldrain.com/u/MX1dTpJs). |
 | **Native 1080p Render** | Renders at 1920×1080 with adjustments to UI positioning. Original 2D artwork, including HUD/UI assets and song jackets, is not upscaled. |
 | **Fake Region** | Overrides the region used for song licence checks without changing the UI language. Select Japan to unlock all songs. |
 
@@ -67,7 +67,7 @@ The override affects song license checks. The actual region and UI language cont
 
 ### Omnimix and 1080p notes
 
-- The JSON does not include Omnimix song assets or the required external hooks. Use the **Omnimix Patch** with the matching [Omnimix](https://pixeldrain.com/l/QaBxTj18) installation.
+- The JSON does not include Omnimix song assets or the required external hooks. Use the **Omnimix Patch** with the matching [Omnimix](https://pixeldrain.com/u/MX1dTpJs) installation.
 - The **Native 1080p Render** patch changes rendering and positioning; it does not replace or upscale the original 2D assets.
 - Configure the display/window for 1920×1080 when using the 1080p option.
 - Enable patches before launching the game, particularly rendering and clean-capture options.
@@ -83,7 +83,7 @@ Import from the same URL again to download the latest JSON, review your selectio
 - **HTTP 404 during import:** Check that you entered the base URL and that your DLL's PE identifier is supported.
 - **Invalid JSON during import:** Use the raw import URL above rather than a GitHub file-view page or the complete JSON-file URL.
 - **Patches do not appear or cannot be applied:** Confirm that your DLL matches the supported build. A previously modified DLL may not match the expected original bytes.
-- **Omnimix songs or previews are missing:** Check the separate [Omnimix](https://pixeldrain.com/l/QaBxTj18) assets and hooks; this repository supplies the JSON patches.
+- **Omnimix songs or previews are missing:** Check the separate [Omnimix](https://pixeldrain.com/u/MX1dTpJs) assets and hooks; this repository supplies the JSON patches.
 
 ## Links
 
